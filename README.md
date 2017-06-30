@@ -8,9 +8,10 @@ Happy Tours Egypt: http://cody.html-5.me/HappyToursEgypt
 # BMC Essen
 - Titania Fabric: http://www.titania-fabrik.de/
 - Berrywell
-- Schneiderbau
+- Schneiderbau: http://hannes-schneider-bau.de/
+- Türenwelt
 
 # E.ON
-- Energy Management System (EMS)
+- Energy Management Solution (EMS)
 
 -- To be updated --
