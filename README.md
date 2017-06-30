@@ -6,7 +6,7 @@ Happy Tours Egypt: http://cody.html-5.me/HappyToursEgypt
 
 # 2017
 # BMC Essen
-- Titania Fabric
+- Titania Fabric: http://www.titania-fabrik.de/
 - Berrywell
 - Schneiderbau
 
